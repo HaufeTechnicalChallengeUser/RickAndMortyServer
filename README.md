@@ -7,6 +7,8 @@ This project was developed with [Node](https://nodejs.org/es/), [Express](https:
 The first command to run is `npm i` to install dependencies.
 You can see all the dependencies and scripts in `package.json` file.
 
+After that, you need to bluid the server with `npm run build`.
+
 Then, to start the project, run `npm run dev`.
 The project will open in [http://localhost:8000](http://localhost:8000) to check it in the browser.
 
